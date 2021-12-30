@@ -1,0 +1,17 @@
+30 December 2021
+
+Overview:
+
+  - 
+
+  Today I:
+    
+  
+  Closeout:
+    
+  
+  Reviewed CMD commands today: 
+     ipconfig - (of course)
+     net use - for revealing sharedrive accesses
+     net user [user] /[domain] - for all the user information (password expiration, account status, date and time of password set, last login,
+        workstation permissions, etc...)
