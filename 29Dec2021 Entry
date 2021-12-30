@@ -1,0 +1,26 @@
+29 December 2021
+
+Overview:
+
+  - Indeed.com searches for required skills of local jobs I might apply for
+  - Virtual Machine set-up
+  - Download and Install Windows Server 2016
+  - Active Dierectory for Users and Computers (automation, creating users, advanced options)
+  - Active Directory Administration Center for Recycle Bin setting
+  - A few basic commands in CMD
+
+  I realized I needed to shift my focus back into IT. The stress that my ending in the Navy, after 14 years of honorable service, put on me and my family put me in a strange state of mind. After all the work I put into IT, and Computer Science, I decided to go get my CDL and drive a truck instead. It was a rash and insane period. Now I am back and I have little time to prepare for my next career.
+  On a separate note, it should be noted that an amount of my academic time was also focused on learning Turkish.  I used Duolingo, and an app i found called Language Transfer. Effective learning tools when used together. I also looked up some Turkish language teachers on YouTube to clarify some pronounciations and reviewed some vowel harmony.
+  Today I went through many Indeed.com jobs offered in the local area in IT to see what was generally required. Without a certification or relevant degree (people still require Bachelors Degrees for this stuff!) I all but decided that some type of help desk support might be my first option. That being said, I have dived into the YouTube channel of "Kevtech IT Support" who has an incredible library of hands-on style videos.
+  I have reinstalled VirtualBox, cleaned it up a bit, and then installed Windows Server 2016 on VB.  After installing, I changed the computer name to Tribs-Server-2016 and then I adjusted its advanced visual settings to best performance.  I then installed and configured Active Directory and called the domain Attigra. In the Active Directory Administrative Center I enabled the Recycle Bin in order to recover deleted items (always a good thing to implement).
+  Utilizing an automation technique, I went to Active Directory Users and Computers and copied the Administrator account, calling the copy "helpdesk". 
+  
+  It is almost 8:00 pm and I am getting pretty tired, so to stage off burn out early (due to the amount of work I need to put in) I am going to relax and watch something entertaining until I need to go to bed and sleep.  Overall it has been a great experience and I am having a lot of fun doing this.
+  
+  
+  Reviewed CMD commands today: 
+     ipconfig - (of course)
+     net use - for revealing sharedrive accesses
+     net user [user] /[domain] - for all the user information (password expiration, account status, date and time of password set, last login,
+        workstation permissions, etc...)
+     
