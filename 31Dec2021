@@ -4,7 +4,63 @@ Overview:
   - Group Policy Management
 
   Today I:
+    While continuing the help desk lab setup, I realized a mistake I was making: I was forgetting that therte is a difference between a user and an asset. I was creating virtual desktops and naming them by the user instead of something like "Desktop-1" etc... This could be very confusing. If an asset must be moved, though the name of an asset can be changed, why would that be a limitation I would want to set up for myself. Instead users, assets, and groups should be separate entities.
+
+
+
+ITPro.TV
+  Alright I bit the bullet and purchased the Premium Membership for ITPro.TV.  Their courses are excellent, and professionally done. As good as free YouTube courses are, I need to get ready much faster than what I am getting.
+  I've started the accelerated CompTIA A+ course. It is starting backwards a bit, but I need the review and I think I can get through this course pretty quickly.
+  The courses that look interesting to me are:
+                
+              - 14 hours - MTA Windows Operating System Fundamentals - 98-349 (UPDATE 2018)
+              - 16 hours - Windows 10 (MD-100)
+              - 24 hours - Managing Modern Desktops (MD-101)
+              - 35 hours - MCSA Windows Server 2016 - 70-740
+              - 28 hours - MCSA Windows Server 2016 - 70-741
+              - 33 hours - MCSA Windows Server 2016 - 70-742
+              - 48 hours - MCSE Windows Server 2016 - 70-744 (UPDATED 2018)
+              -  8 hours - Hands-on with Windows Server 2019
+              - 28 hours - CompTIA Server+ (SK0-004)
+                          
+              - 31 hours - Cisco CCNA (200-301)
+              -  3 hours - Hands-on with Cisco Meraki Wireless Access Points
+              -  3 hours - Hands-on with Cisco Modeling Labs 2 (CML2)
+              - 16 hours - Cisco CCNP Enterprise ENCOR (350-401)
+              -  6 hours - Cisco CCNP Enterprise ENSLD (300-420)
+              - 15 hours - Cisco CCNP Enterprise ENARSI (Exam 300-410)
+              -  8 hours - Hands-on BGP
+              
+              -  8 hours - AWS Certified Cloud Practitioner
+              - 18 hours - AWS Certified Solutions Architect - Associate
+              - 13 hours - AWS Certified SysOps Administrator - Associate
+              
+              - 15 hours - Microsoft Azure Fundamentals (AZ-900)
+              - 26 hours - Microsoft Azure Administrator Associate (AZ-104)
+              - 27 hours - Microsoft Azure (AZ-500)
+              
+              - 16 hours - Microsoft 365 Identity and Services (MS-100)
+              - 29 hours - Microsoft 365 Mobility and Security (MS-101)
+              
+              - 20 hours - CompTIA Accelerated A+ Core (220-1001)
+              - 13 hours - Course: CompTIA Accelerated A+ Core (220-1002)
+              
+  
+  Lesson: STORAGE
+    Magnetic or Electrical or Optical
+      Magnetic Storage
+        
     
+    Mechanical - lower performance, higher latency, noise, multiple points of failure
+    Fixed - internal system component, connected to the mother board
+    Removable - connected to a port
+    
+    Hot-Swappable - replace while power is on
+    Cold-Swappable - must power down to swap
+    
+    Budget vs Performance
+    Storage Type
+
   
   Closeout:
     
