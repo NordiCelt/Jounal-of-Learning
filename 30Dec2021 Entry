@@ -5,13 +5,16 @@ Overview:
   - 
 
   Today I:
+       Created a Windows 10 ISO for a virtual machine (offline, limited use kind of setup). On the Windows 10 machine, I enabled the Administrator account, logged in with that, then deleted the user account.  I then installed some RSAT Tools, including Active Directory, Remote Desktop, and a few others. The idea is to simulate a Help Desk role on a Windows 10 machine, similar to what I might be dealing with if I get a Level 1 Helpdesk job.
+       In addition I created a user account and on my helpdesk account I added a group called HR. I placed the new user "Jane Doe" into the HR group.
+       
     
   
   Closeout:
+       I honestly should have focused more on training and labbing. I think I could be much further along. I had several things I had to do outside the house, but I let myself get too distracted today. Tomorrow will be better.
     
   
   Reviewed CMD commands today: 
      ipconfig - (of course)
-     net use - for revealing sharedrive accesses
-     net user [user] /[domain] - for all the user information (password expiration, account status, date and time of password set, last login,
-        workstation permissions, etc...)
+     ping - (self-explanatory)
+     net user [user] /domain - for all the user information (password expiration, account status, date and time of password set, last login, workstation permissions, etc...)
