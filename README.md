@@ -72,8 +72,8 @@ Click here to see my: [<-- GitHub Markdown Resume](https://github.com/NordiCelt)
 
 
 
-# Learning Journal Template
-<!--
+# Learning Journal
+<!--  Template
 
 ## 1 January 2022 - Saturday
 
@@ -126,7 +126,19 @@ Click here to see my: [<-- GitHub Markdown Resume](https://github.com/NordiCelt)
 - [] Network Troubleshooting
 
 **Notes:**
+  OSI = 7 layer APSTNDP
+  TCP/IP = 4 or 5 layer
   
+|   Layer   |        OSI         |   Protocol   |      Devices     |   TCP IP 5 Layer  |   TCP IP 4 Layer  |
+| --------- | ------------------ | ------------ | ---------------- | ----------------- | ----------------- |
+|     7     |     Application    |  http, smtp  | User Application |    Application    |    Application    |
+|     6     |     Presentation   |  jpg, ascii  |                  |                   |                   |
+|     5     |     Session        | NFS, NetBIOS |   Logical Ports  | ----------------- | ----------------- |
+|     4     |     Transport      |  TCP or UDP  |     Firewalls    |     Transport     |     Transport     |
+|     3     |     Network        |   IP, ICMP   |      Routers     |      Internet     |      Internet     |
+|     2     |     Data Link      |   ethernet   |    L2 Switches   |     Data Link     | ----------------- |
+|     1     |     Physical       |              |  Cables, Lights  |     Physical      | Network Interface |
+
 
 ---
 
