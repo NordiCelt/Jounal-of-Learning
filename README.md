@@ -66,7 +66,7 @@ Click here to see my [GitHub Markdown Resume](https://github.com/NordiCelt)
 
 ### Progress:
 - [x] Getting Started - 28 minutes
-- [ ] Basic Syntax and Help - 30 minutes
+- [x] Basic Syntax and Help - 30 minutes
 - [ ] Basic Syntax and Help Part 2 - 40 minutes
 - [ ] Command History and Aliases - 28 minutes
 - [ ] Command History and Aliases Part 2 - 25 minutes
@@ -83,6 +83,7 @@ Click here to see my [GitHub Markdown Resume](https://github.com/NordiCelt)
 - [ ] Module Basics Part 2 - 27 minutes
 
 ### Thoughts:
+  The initial setup took longer than it would have, as I installed a fresh Windows Server 2016 on Virtual Box. The server lab I created a few days ago had a static IP and had been toyed with enough that I figured I would start fresh. In addition, I wanted to update PowerShell and the ISE.
   
 
 ---
