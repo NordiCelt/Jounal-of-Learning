@@ -1,8 +1,10 @@
-[<-- GitHub Markdown Resume](https://github.com/NordiCelt)
-# Ray Triboulet
+# Trib's Journal of Learning
 
-Herein is my journal of learning. To be kept daily and followed religiously until I would consider myself an expert at what it is I wish to do and I am doing it.
-Click here to see my [GitHub Markdown Resume](https://github.com/NordiCelt)
+## Welcome!
+
+This is my Journal of Learning. I am keeping this to help me stay on track of my accelerated learning, while hitting certain goals on the way. I also want to use it as a record for my experience as I lab. These are the things I can and have done.
+
+If you are hiring, and desire an exceptionally fast and gifted learner, who is passionate about Information Technology and Software Development, please click here to see my always-evolving [GitHub Resume](https://github.com/NordiCelt)
 
 ## Courses to Complete: *(many if not all all these will be completed on itpro.tv)*
 
@@ -67,7 +69,7 @@ Click here to see my [GitHub Markdown Resume](https://github.com/NordiCelt)
 ### Progress:
 - [x] Getting Started - 28 minutes
 - [x] Basic Syntax and Help - 30 minutes
-- [ ] Basic Syntax and Help Part 2 - 40 minutes
+- [x] Basic Syntax and Help Part 2 - 40 minutes
 - [ ] Command History and Aliases - 28 minutes
 - [ ] Command History and Aliases Part 2 - 25 minutes
 - [ ] Piping and Formatting - 26 minutes
