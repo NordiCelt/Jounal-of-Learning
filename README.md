@@ -1,5 +1,5 @@
 # Trib's Journal of Learning
-
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FNordiCelt%2FJounal-of-Learning%2Fblob%2Fmain%2FREADME.md&count_bg=%23892222&title_bg=%23555555&icon=github.svg&icon_color=%2317BBB6&title=page+views&edge_flat=false)](https://hits.seeyoufarm.com)
 ## Welcome!
 
 This is my Journal of Learning. I am keeping this to help me stay on track of my accelerated learning, while hitting certain goals on the way. I also want to use it as a record for my experience as I lab. These are the things I can and have done.
