@@ -6,7 +6,7 @@ This is my Journal of Learning. I am keeping this to help me stay on track of my
 
 If you are hiring, and desire an exceptionally fast and gifted learner, who is passionate about Information Technology and Software Development, please click here to see my always-evolving [GitHub Resume](https://github.com/NordiCelt)
 
-## Courses to Complete: *(many if not all all these will be completed on itpro.tv)*
+## Courses to Complete:  
 
 ### Basics and Refreshers First
 
@@ -70,8 +70,8 @@ If you are hiring, and desire an exceptionally fast and gifted learner, who is p
 - [x] Getting Started - 28 minutes
 - [x] Basic Syntax and Help - 30 minutes
 - [x] Basic Syntax and Help Part 2 - 40 minutes
-- [ ] Command History and Aliases - 28 minutes
-- [ ] Command History and Aliases Part 2 - 25 minutes
+- [x] Command History and Aliases - 28 minutes
+- [x] Command History and Aliases Part 2 - 25 minutes
 - [ ] Piping and Formatting - 26 minutes
 - [ ] Piping and Formatting Part 2 - 30 minutes
 - [ ] Script Execution Policy - 27 minutes
