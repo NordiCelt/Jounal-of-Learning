@@ -61,6 +61,29 @@ If you are hiring, and desire an exceptionally fast and gifted learner, who is p
 -->
 ---
 
+## 3 January 2022 - Monday
+
+### Course:
+[PowerShell Basics](https://app.itpro.tv/course/powershell-2017?tagcategory=course-library&tag=microsoft "PowerShell Basics")
+
+### Progress:
+- [ ] Piping and Formatting - 26 minutes
+- [ ] Piping and Formatting Part 2 - 30 minutes
+- [ ] Script Execution Policy - 27 minutes
+- [ ] Script Execution Policy Part 2 - 27 minutes
+- [ ] PowerShell Drives - 19 minutes
+- [ ] Profiles - 29 minutes
+- [ ] Profiles Part 2 - 38 minutes
+- [ ] Basic Functions - 32 minutes
+- [ ] Basic Functions Part 2 - 30 minutes
+- [ ] Module Basics - 27 minutes
+- [ ] Module Basics Part 2 - 27 minutes
+
+### Thoughts:
+  
+  
+---
+
 ## 2 January 2022 - Sunday
 
 ### Course:
