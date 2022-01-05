@@ -316,37 +316,15 @@ If you are hiring, and desire an exceptionally fast and gifted learner, who is p
 [Microsoft 365 Fundamentals](https://app.itpro.tv/course/microsoft-365-fundamentals-ms900?tagcategory=course-library&tag=microsoft "Microsoft 365 Fundamentals")
 
 ### Progress:
-- [x] Overview - 5 minutes
-- [x] Cloud Service Models - 24 minutes
-- [x] Cloud Service Benefits
-- [x] Productivity and Teamwork - 21 minutes
-- [ ] Simplified Management - 25 minutes
-- [ ] Business Management - 28 minutes
-- [ ] Security and Compliance - 23 minutes
-- [ ] Microsoft 365 Admin Center - 19 Minutes
-- [ ] Microsoft 365 User Portal - 18 minutes
-- [ ] Deployment and Release Models - 22 minutes
-- [ ] Windows Virtual Desktop - 13 minutes
-- [ ] Microsoft 365 Apps - 23 minutes
-- [ ] Microsoft 365 Analytics - 17 minutes
-- [ ] Microsoft 365 Reports - 16 minutes
-- [ ] Zero Trust Security Principles - 21 Minutes
-- [ ] Unified Endpoint Management - 28 minutes
-- [ ] Identity and Authentication - 19 minutes
-- [ ] Conditional Access - 21 minutes
-- [ ] Threat Protection - 24 minutes
-- [ ] Service Trust, Security and Compliance - 22 minutes
-- [ ] Insider Risk Management and eDiscovery - 35 minutes
-- [ ] Information Protection and Governance - 22 minutes
-- [ ] Pricing Models - 19 minutes
-- [ ] Licensing Options - 18 minutes
-- [ ] Service Lifecycle - 19 minutes
-- [ ] Supporting Offerings and SLAs - 23 minutes
-- [ ] Service Health and UserVoice - 20 minutes
+- [x] Describe Cloud Concepts - 0:54
+- [ ] Core Microsoft 365 Services and Concepts - 3:51
+- [ ] Security, Compliance, Privacy and Trust in M365 - 3:07
+- [ ] Describe M365 Pricing and Support - 1:41
 
 ### Other:
   The wife's new flight was cancelled, and getting my children back from Phoenix (where their mother lives; I have primary custody) was a nightmare. I was not able to start courses until about 1700. Missed a lot of daytime, so I am planning on a late night to catch up.
-  In ging through this course, I found that the default execution policy was set to unrestricted! I changed it to RemoteSigned. Glad that came up. I wonder if that is a Windows 11 default... For most of this hour long part, I have been experimenting with the commands before he even got to them. Fun stuff. It's nice to feel productive, learn so much, and learn it well.
+  In going through this course, I found that the default execution policy was set to unrestricted! I changed it to RemoteSigned. Glad that came up. I wonder if that is a Windows 11 default... For most of this hour long part, I have been experimenting with the commands before he even got to them. Fun stuff. It's nice to feel productive, learn so much, and learn it well.
+  Worked until 0100 AM so I'm shutting down. Made some great progress and had fun doing it.
   
 ---
 
