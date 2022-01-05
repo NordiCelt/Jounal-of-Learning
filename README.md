@@ -53,12 +53,33 @@ If you are hiring, and desire an exceptionally fast and gifted learner, who is p
 ### Progress:
 [ ] 
 
-### Thoughts:
+### Other:
 
 
 ---
 
 -->
+---
+## 4 January 2022 - Tuesday
+
+### Course:
+[PowerShell Basics](https://app.itpro.tv/course/powershell-2017?tagcategory=course-library&tag=microsoft "PowerShell Basics")
+
+### Progress:
+- [x] Piping and Formatting Part 2 - 30 minutes
+- [ ] Script Execution Policy - 27 minutes
+- [ ] Script Execution Policy Part 2 - 27 minutes
+- [ ] PowerShell Drives - 19 minutes
+- [ ] Profiles - 29 minutes
+- [ ] Profiles Part 2 - 38 minutes
+- [ ] Basic Functions - 32 minutes
+- [ ] Basic Functions Part 2 - 30 minutes
+- [ ] Module Basics - 27 minutes
+- [ ] Module Basics Part 2 - 27 minutes
+
+### Other:
+  The wife's new flight was cancelled, and getting my children back from Phoenix (where their mother lives; I have primary custody) was a nightmare. I was not able to start courses until about 1700. Missed a lot of daytime, so I am planning on a late night to catch up.
+  
 ---
 
 ## 3 January 2022 - Monday
@@ -67,7 +88,7 @@ If you are hiring, and desire an exceptionally fast and gifted learner, who is p
 [PowerShell Basics](https://app.itpro.tv/course/powershell-2017?tagcategory=course-library&tag=microsoft "PowerShell Basics")
 
 ### Progress:
-- [ ] Piping and Formatting - 26 minutes
+- [x] Piping and Formatting - 26 minutes
 - [ ] Piping and Formatting Part 2 - 30 minutes
 - [ ] Script Execution Policy - 27 minutes
 - [ ] Script Execution Policy Part 2 - 27 minutes
@@ -79,9 +100,10 @@ If you are hiring, and desire an exceptionally fast and gifted learner, who is p
 - [ ] Module Basics - 27 minutes
 - [ ] Module Basics Part 2 - 27 minutes
 
-### Thoughts:
-  
-  
+### Other Things
+  Today was very busy. Trying to fix my wife's flight back home from Nevada, and then my only working vehicle died (battery crapped out due to its age and being in these incredible temperatures). So I spent a couple of hours trying to find somene available to hit me up with a ride to an autozone where I purchased a replacement. Due to the holidays (and it being a work day) most people were either busy at work or not in the state. My time spent on courses was unfortunately very short due to this.
+
+
 ---
 
 ## 2 January 2022 - Sunday
