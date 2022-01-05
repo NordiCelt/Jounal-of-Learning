@@ -152,6 +152,8 @@ If you are hiring, and desire an exceptionally fast and gifted learner, who is p
 ### Cloud Paths
 
 #### Microsoft Certified: Azure Administrator Associate
+- [x] [Discuss Azure fundamental concepts](https://docs.microsoft.com/en-us/learn/modules/fundamental-azure-concepts/)   
+
 - [ ] [Microsoft Azure Fundamentals (AZ-900)](https://app.itpro.tv/course/microsoft-azure-fundamentals-az900?tagcategory=certification&tag=microsoft-certified-azure "AZ-900") - certificate for this
 <!--
 - [ ] Benefits of Using Cloud Services - 1:40
@@ -330,8 +332,6 @@ If you are hiring, and desire an exceptionally fast and gifted learner, who is p
 
 ### Course:
 [PowerShell Basics](https://app.itpro.tv/course/powershell-2017?tagcategory=course-library&tag=microsoft "PowerShell Basics")
-
-### Progress:
 - [x] Basic Functions - 32 minutes
 - [x] Basic Functions Part 2 - 30 minutes
 - [x] Module Basics - 27 minutes
@@ -339,11 +339,17 @@ If you are hiring, and desire an exceptionally fast and gifted learner, who is p
   
 ### Course:
 [Microsoft 365 Fundamentals](https://app.itpro.tv/course/microsoft-365-fundamentals-ms900?tagcategory=course-library&tag=microsoft "Microsoft 365 Fundamentals")
-
-### Progress:
 - [ ] Core Microsoft 365 Services and Concepts - 3:51
 - [ ] Security, Compliance, Privacy and Trust in M365 - 3:07
 - [ ] Describe M365 Pricing and Support - 1:41
+
+### Course:
+[Microsoft 365 Fundamentals: Demonstrate knowledge of Microsoft 365 productivity and teamwork capabilities](https://docs.microsoft.com/en-us/learn/paths/m365-productivity-teamwork-solutions/ "")
+- [ ] What is Microsoft 365 - 0:17
+- [ ] Microsoft 365 Productivity and Teamwork Solutions - 0:25
+- [ ] Engage Employees with Microsoft Teams, Viva, and Yammer - 0:40
+- [ ] Get More Done with Office Across All Devices - 0:19
+- [ ] File Storage and Sharing with OneDrive and SharePoint - 0:24
 
 ### Other:
 
