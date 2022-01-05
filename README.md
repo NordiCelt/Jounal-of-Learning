@@ -79,6 +79,7 @@ If you are hiring, and desire an exceptionally fast and gifted learner, who is p
 
 ### Other:
   The wife's new flight was cancelled, and getting my children back from Phoenix (where their mother lives; I have primary custody) was a nightmare. I was not able to start courses until about 1700. Missed a lot of daytime, so I am planning on a late night to catch up.
+  In ging through this course, I found that the default execution policy was set to unrestricted! I changed it to RemoteSigned. Glad that came up. I wonder if that is a Windows 11 default...
   
 ---
 
