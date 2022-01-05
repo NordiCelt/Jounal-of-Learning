@@ -10,8 +10,48 @@ If you are hiring, and desire an exceptionally fast and gifted learner, who is p
 
 ### Basics and Refreshers First
 
-- [ ] [PowerShell Basics](https://app.itpro.tv/course/powershell-2017?tagcategory=course-library&tag=microsoft "PowerShell Basics")
+- [x] [PowerShell Basics](https://app.itpro.tv/course/powershell-2017?tagcategory=course-library&tag=microsoft "PowerShell Basics")
+
 - [ ] [Microsoft 365 Fundamentals](https://app.itpro.tv/course/microsoft-365-fundamentals-ms900?tagcategory=course-library&tag=microsoft "Microsoft 365 Fundamentals") - certificate for this
+
+- [ ] [Microsoft 365 Fundamentals: Demonstrate knowledge of Microsoft 365 productivity and teamwork capabilities](https://docs.microsoft.com/en-us/learn/paths/m365-productivity-teamwork-solutions/ "")
+<!--
+- [ ] What is Microsoft 365 - 0:17
+- [ ] Microsoft 365 Productivity and Teamwork Solutions - 0:25
+- [ ] Engage Employees with Microsoft Teams, Viva, and Yammer - 0:40
+- [ ] Get More Done with Office Across All Devices - 0:19
+- [ ] File Storage and Sharing with OneDrive and SharePoint - 0:24
+-->
+
+- [ ] [Microsoft 365 Fundamentals: Demonstrate knowledge of Microsoft 365 business management capabilities](https://docs.microsoft.com/en-us/learn/paths/m365-business-management-solutions/ "")
+<!--
+- [ ] What is Microsoft 365 - 0:17
+- [ ] Manage Your Business with Microsoft 365 - 0:42
+- [ ] Simplify Device Management with Microsoft Endpoint Manager - 0:27
+- [ ] Get More Done and Stay Secure with Windows 10 - 0:30
+- [ ] Harness Business Intelligence with Microsoft 365 Analytics and Reporting - 0:19
+-->
+
+- [ ] [Microsoft 365 Fundamentals: Demonstrate fundamental knowledge of Microsoft 365 security and compliance capabilities](https://docs.microsoft.com/en-us/learn/paths/m365-security-compliance-capabilities/ "")
+<!--
+- [ ] What is Microsoft 365 - 0:17
+- [ ] Describe Security and Compliance Concepts and Methodologies - 0:26
+- [ ] Describe the Identity and Access Management Capabilities of Microsoft - 0:29
+- [ ] Describe the Threat Protection Capabilities of Microsoft 365 - 0:24
+- [ ] Describe the Cloud Security Capabilities of Microsoft 365 - 0:11
+- [ ] Describe the Information Protection and Governance Capabilities of Microsoft 365 - 0:23
+- [ ] Describe the Compliance Management Capabilities in Microsoft - 0:30
+- [ ] Reduce Risk and Simplify the Discovery and Audit Process - 0:37
+-->
+
+- [ ] [Microsoft 365 Fundamentals: Demonstrate knowledge of Microsoft 365 licensing, service and support](https://docs.microsoft.com/en-us/learn/paths/m365-licensing-service-support/ "")
+<!--
+- [ ] What is Microsoft 365 - 0:17
+- [ ] Identify Licensing Options Available in Microsoft 365 - 0:16
+- [ ] Describe Support Offerings for Microsoft 365 Services - 0:17
+- [ ] Describe the Service Life Cycle in Microsoft 365 - 0:08
+- [ ] Select a Cloud Deployment Model - 0:09
+-->
 
 ### Enterprise Administrator Expert Track
 - [ ] [Microsoft Windows 10 MD-100](https://app.itpro.tv/course/microsoft-windows-10-md-100?tagcategory=course-library&tag=microsoft "MD-100") - certificate for this
@@ -267,13 +307,6 @@ If you are hiring, and desire an exceptionally fast and gifted learner, who is p
 - [ ] [Managing Microsoft Teams](https://app.itpro.tv/course/managing-microsoft-teams-ms700?tagcategory=course-library&tag=microsoft "Managing Microsoft Teams")
 
 
-
-
-
-
-
-
-
 # Learning Journal
 <!--  Template
 
@@ -283,7 +316,7 @@ If you are hiring, and desire an exceptionally fast and gifted learner, who is p
 [PowerShell Basics] (https://app.itpro.tv/course/powershell-2017?tagcategory=course-library&tag=microsoft "PowerShell Basics")
 
 ### Progress:
-[ ] 
+- [ ] 
 
 ### Other:
 
@@ -300,8 +333,8 @@ If you are hiring, and desire an exceptionally fast and gifted learner, who is p
 ### Progress:
 - [x] Basic Functions - 32 minutes
 - [x] Basic Functions Part 2 - 30 minutes
-- [ ] Module Basics - 27 minutes
-- [ ] Module Basics Part 2 - 27 minutes
+- [x] Module Basics - 27 minutes
+- [x] Module Basics Part 2 - 27 minutes
   
 ### Course:
 [Microsoft 365 Fundamentals](https://app.itpro.tv/course/microsoft-365-fundamentals-ms900?tagcategory=course-library&tag=microsoft "Microsoft 365 Fundamentals")
