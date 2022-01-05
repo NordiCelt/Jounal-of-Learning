@@ -292,6 +292,29 @@ If you are hiring, and desire an exceptionally fast and gifted learner, who is p
 
 -->
 ---
+## 5 January 2022 - Wednesday
+
+### Course:
+[PowerShell Basics](https://app.itpro.tv/course/powershell-2017?tagcategory=course-library&tag=microsoft "PowerShell Basics")
+
+### Progress:
+- [x] Basic Functions - 32 minutes
+- [x] Basic Functions Part 2 - 30 minutes
+- [ ] Module Basics - 27 minutes
+- [ ] Module Basics Part 2 - 27 minutes
+  
+### Course:
+[Microsoft 365 Fundamentals](https://app.itpro.tv/course/microsoft-365-fundamentals-ms900?tagcategory=course-library&tag=microsoft "Microsoft 365 Fundamentals")
+
+### Progress:
+- [ ] Core Microsoft 365 Services and Concepts - 3:51
+- [ ] Security, Compliance, Privacy and Trust in M365 - 3:07
+- [ ] Describe M365 Pricing and Support - 1:41
+
+### Other:
+
+
+---
 ## 4 January 2022 - Tuesday
 
 ### Course:
@@ -412,8 +435,8 @@ If you are hiring, and desire an exceptionally fast and gifted learner, who is p
 January 2022
 |Sun|Mon|Tue|Wed|Thu|Fri|Sat|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-| | | | | | |1|
-|2|3|4|5|6|7|8|
+| | | | | | |x|
+|x|x|x|x|6|7|8|
 |9|10|11|12|13|14|15|
 |16|17|18|19|20|21|22|
 |23|24|25|26|27|28|29|
