@@ -67,11 +67,11 @@ If you are hiring, and desire an exceptionally fast and gifted learner, who is p
 
 ### Progress:
 - [x] Piping and Formatting Part 2 - 30 minutes
-- [ ] Script Execution Policy - 27 minutes
-- [ ] Script Execution Policy Part 2 - 27 minutes
-- [ ] PowerShell Drives - 19 minutes
-- [ ] Profiles - 29 minutes
-- [ ] Profiles Part 2 - 38 minutes
+- [x] Script Execution Policy - 27 minutes
+- [x] Script Execution Policy Part 2 - 27 minutes
+- [x] PowerShell Drives - 19 minutes
+- [x] Profiles - 29 minutes
+- [x] Profiles Part 2 - 38 minutes
 - [ ] Basic Functions - 32 minutes
 - [ ] Basic Functions Part 2 - 30 minutes
 - [ ] Module Basics - 27 minutes
@@ -79,7 +79,7 @@ If you are hiring, and desire an exceptionally fast and gifted learner, who is p
 
 ### Other:
   The wife's new flight was cancelled, and getting my children back from Phoenix (where their mother lives; I have primary custody) was a nightmare. I was not able to start courses until about 1700. Missed a lot of daytime, so I am planning on a late night to catch up.
-  In ging through this course, I found that the default execution policy was set to unrestricted! I changed it to RemoteSigned. Glad that came up. I wonder if that is a Windows 11 default...
+  In ging through this course, I found that the default execution policy was set to unrestricted! I changed it to RemoteSigned. Glad that came up. I wonder if that is a Windows 11 default... For most of this hour long part, I have been experimenting with the commands before he even got to them. Fun stuff. It's nice to feel productive, learn so much, and learn it well.
   
 ---
 
