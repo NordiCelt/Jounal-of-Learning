@@ -2,7 +2,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FNordiCelt%2FJounal-of-Learning%2Fblob%2Fmain%2FREADME.md&count_bg=%23892222&title_bg=%23555555&icon=github.svg&icon_color=%2317BBB6&title=page+views&edge_flat=false)](https://hits.seeyoufarm.com)
 ## Welcome!
 
-This is my Journal of Learning. I am keeping this to help me stay on track of my accelerated learning, while hitting certain goals on the way. I also want to use it as a record for my experience as I lab. These are the things I can and have done.
+This is my Journal of Learning. I am keeping this to help me stay on track of my accelerated learning, while hitting certain goals on the way. It is a good frame of reference for what I've done to prepare for my career outside the military. In short, these are the things I can and have done.
 
 If you are hiring, and desire an exceptionally fast and gifted learner, who is passionate about Information Technology and Software Development, please click here to see my always-evolving [GitHub Resume](https://github.com/NordiCelt)
 
@@ -345,7 +345,7 @@ If you are hiring, and desire an exceptionally fast and gifted learner, who is p
 
 ### Course:
 [Microsoft 365 Fundamentals: Demonstrate knowledge of Microsoft 365 productivity and teamwork capabilities](https://docs.microsoft.com/en-us/learn/paths/m365-productivity-teamwork-solutions/ "")
-- [ ] What is Microsoft 365 - 0:17
+- [x] What is Microsoft 365 - 0:17
 - [ ] Microsoft 365 Productivity and Teamwork Solutions - 0:25
 - [ ] Engage Employees with Microsoft Teams, Viva, and Yammer - 0:40
 - [ ] Get More Done with Office Across All Devices - 0:19
