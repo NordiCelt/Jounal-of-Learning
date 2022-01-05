@@ -8,9 +8,10 @@ If you are hiring, and desire an exceptionally fast and gifted learner, who is p
 
 ## Courses to Complete:  
 
-### Basics and Refreshers First
+### Fundamentals and Refreshers
 
-- [x] [PowerShell Basics](https://app.itpro.tv/course/powershell-2017?tagcategory=course-library&tag=microsoft "PowerShell Basics")
+- [x] [PowerShell Basics](https://app.itpro.tv/course/powershell-2017?tagcategory=course-library&tag=microsoft "PowerShell Basics")   
+🥇 [My Certificate from ITPro.TV](https://github.com/NordiCelt/Course-Certificates/blob/main/PowerShell%20Basics.pdf)
 
 - [ ] [Microsoft 365 Fundamentals](https://app.itpro.tv/course/microsoft-365-fundamentals-ms900?tagcategory=course-library&tag=microsoft "Microsoft 365 Fundamentals") - certificate for this
 
