@@ -328,6 +328,31 @@ If you are hiring, and desire an exceptionally fast and gifted learner, who is p
 
 -->
 ---
+## 6 January 2022 - Thursday
+
+### Note:
+    Family has returned from a longer than planned stay in Nevada, so I am taking the day off to be with them.   
+    
+    Tomorrow I need to work on:
+    
+### Job Hunt:
+- [ ] Resume is in desparate need of attention!
+
+### Course:
+[Microsoft 365 Fundamentals](https://app.itpro.tv/course/microsoft-365-fundamentals-ms900?tagcategory=course-library&tag=microsoft "Microsoft 365 Fundamentals")
+- [ ] Core Microsoft 365 Services and Concepts - 3:51
+- [ ] Security, Compliance, Privacy and Trust in M365 - 3:07
+- [ ] Describe M365 Pricing and Support - 1:41
+
+### Course:
+[Microsoft 365 Fundamentals: Demonstrate knowledge of Microsoft 365 productivity and teamwork capabilities](https://docs.microsoft.com/en-us/learn/paths/m365-productivity-teamwork-solutions/ "")
+- [ ] Microsoft 365 Productivity and Teamwork Solutions - 0:25
+- [ ] Engage Employees with Microsoft Teams, Viva, and Yammer - 0:40
+- [ ] Get More Done with Office Across All Devices - 0:19
+- [ ] File Storage and Sharing with OneDrive and SharePoint - 0:24
+
+
+---
 ## 5 January 2022 - Wednesday
 
 ### Course:
