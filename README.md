@@ -352,7 +352,8 @@ If you are hiring, and desire an exceptionally fast and gifted learner, who is p
 - [ ] File Storage and Sharing with OneDrive and SharePoint - 0:24
 
 ### Other:
-
+    I am absolutely blown away by Microsoft Viva, and the accessibility features that Microsoft has pu tin place. Viva is such an amazing tools for businesses. I highly value learning and intellectual progress at any cost. It has been something that drives my very being. For companies to use something like Viva in order to help progress the intellictual well being of thei employees is just beyond anything I would expect. It is something that I hope is successful and leads the way to other big tech companies trying to compete in that unreached niche of the market. Incredibly inspiring. I've set myself to, when I go to bed (wife is still stuck in Nevada so it's just me again) I want to watch some videos on YouTube on Viva. This motivates me greatly.
+    Also, accessibility: In my opinion, accessibility has been something a lot of companies have done grudgingly. whether it is building a ramp to a door or adding properties to an image on HTML5 front ends. And frankly, not being directly effected by blindness or other things, I have given that little thought. But lateley, seein gmy oldest son having an extreme case of ADHD and even thinking he had terrets at one point, and how that affected his education, plus with myself being diagnosed with PTSD and seeing hows just a sound or a flash of light or anything can not only distract me, but send an adrenaline rush through me, to see that Microsoft has tackled even problems like these is incredibly noteworthy. Who would thi8nk that was a thing that a computer program could have a positive effect on? 
 
 ---
 ## 4 January 2022 - Tuesday
