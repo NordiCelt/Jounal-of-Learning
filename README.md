@@ -13,7 +13,7 @@ If you are hiring, and desire an exceptionally fast and gifted learner, who is p
 - [x] [PowerShell Basics](https://app.itpro.tv/course/powershell-2017?tagcategory=course-library&tag=microsoft "PowerShell Basics")   
 🥇 [My Certificate from ITPro.TV](https://github.com/NordiCelt/Course-Certificates/blob/main/PowerShell%20Basics.pdf)
 
-- [ ] [Microsoft 365 Fundamentals](https://app.itpro.tv/course/microsoft-365-fundamentals-ms900?tagcategory=course-library&tag=microsoft "Microsoft 365 Fundamentals") - certificate for this
+- [ ] [Microsoft 365 Fundamentals](https://app.itpro.tv/course/microsoft-365-fundamentals-ms900?tagcategory=course-library&tag=microsoft "Microsoft 365 Fundamentals")
 
 - [ ] [Microsoft 365 Fundamentals: Demonstrate knowledge of Microsoft 365 productivity and teamwork capabilities](https://docs.microsoft.com/en-us/learn/paths/m365-productivity-teamwork-solutions/ "")
 <!--
@@ -55,7 +55,7 @@ If you are hiring, and desire an exceptionally fast and gifted learner, who is p
 -->
 
 ### Enterprise Administrator Expert Track
-- [ ] [Microsoft Windows 10 MD-100](https://app.itpro.tv/course/microsoft-windows-10-md-100?tagcategory=course-library&tag=microsoft "MD-100") - certificate for this
+- [ ] [Microsoft Windows 10 MD-100](https://app.itpro.tv/course/microsoft-windows-10-md-100?tagcategory=course-library&tag=microsoft "MD-100")
 <!--
 - [ ] Install Windows 10 - 1:35
 - [ ] Perform Post-Installation Configuration - 2:34
@@ -69,21 +69,21 @@ If you are hiring, and desire an exceptionally fast and gifted learner, who is p
 - [ ] Monitor and Manage Windows - 1:55
 - [ ] Configure Remote Connectivity - 1:29
 -->
-- [ ] [Managing Modern Desktops MD-101](https://app.itpro.tv/course/managing-modern-desktops-md101?tagcategory=course-library&tag=microsoft "MD-101") - certificate for this
+- [ ] [Managing Modern Desktops MD-101](https://app.itpro.tv/course/managing-modern-desktops-md101?tagcategory=course-library&tag=microsoft "MD-101") 
 <!--
 - [ ] Plan and Implement Windows 10 by using Dynamic Deployment - 7:33
 - [ ] Manage Policies and Profiles - 4:31
 - [ ] Manage and Protect Devices - 6:52
 - [ ] Manage Apps and Data - 4:45
 -->
-- [ ] [Microsoft 365 Identity and Services MS-100](https://app.itpro.tv/course/microsoft-365-identityservices-ms100?tagcategory=course-library&tag=microsoft "MS-100") - certificate for this
+- [ ] [Microsoft 365 Identity and Services MS-100](https://app.itpro.tv/course/microsoft-365-identityservices-ms100?tagcategory=course-library&tag=microsoft "MS-100") 
 <!--
 - [ ] Design and Implement Microsoft 365 Services - 5:42
 - [ ] Manage User Identity and Roles - 6:00
 - [ ] Manage Access and Authentication - 2:32
 - [ ] Plan Office 365 Workloads and Applications - 1:50
 -->
-- [ ] [Microsoft Mobility and Security MS-101](https://app.itpro.tv/course/microsoft-mobilitysecurity-ms101?tagcategory=course-library&tag=microsoft "MS-101") - certificate for this
+- [ ] [Microsoft Mobility and Security MS-101](https://app.itpro.tv/course/microsoft-mobilitysecurity-ms101?tagcategory=course-library&tag=microsoft "MS-101") 
 <!--
 - [ ] Plan Device Management - 1:25
 - [ ] Manage Device Compliance - 1:57
@@ -154,14 +154,14 @@ If you are hiring, and desire an exceptionally fast and gifted learner, who is p
 #### Microsoft Certified: Azure Administrator Associate
 - [x] [Discuss Azure fundamental concepts](https://docs.microsoft.com/en-us/learn/modules/fundamental-azure-concepts/)   
 
-- [ ] [Microsoft Azure Fundamentals (AZ-900)](https://app.itpro.tv/course/microsoft-azure-fundamentals-az900?tagcategory=certification&tag=microsoft-certified-azure "AZ-900") - certificate for this
+- [ ] [Microsoft Azure Fundamentals (AZ-900)](https://app.itpro.tv/course/microsoft-azure-fundamentals-az900?tagcategory=certification&tag=microsoft-certified-azure "AZ-900")
 <!--
 - [ ] Benefits of Using Cloud Services - 1:40
 - [ ] Understand the Core Azure Architectural Components - 5:17
 - [ ] Understand Security, Privacy, Compliance and Trust - 5:23
 - [ ] Understand Azure Pricing and Support - 2:35
 -->
-- [ ] [Microsoft Azure Administrator Associate (AZ-104)](https://app.itpro.tv/course/azure-administrator-associate-az104?tagcategory=certification&tag=microsoft-certified-azure "AZ-104") - certificate for this
+- [ ] [Microsoft Azure Administrator Associate (AZ-104)](https://app.itpro.tv/course/azure-administrator-associate-az104?tagcategory=certification&tag=microsoft-certified-azure "AZ-104")
 <!--
 - [ ] Manage Azure AD Objects - 2:54
 - [ ] Manage Role-Based Access Control - 0:58
@@ -185,7 +185,7 @@ If you are hiring, and desire an exceptionally fast and gifted learner, who is p
 -->
 
 #### Microsoft Certified: Azure Virtual Desktop Specialty
-- [ ] [Azure Virtual Desktop](https://app.itpro.tv/course/azure-virtual-desktop-az140?tagcategory=course-library&tag=microsoft "Azure Virtual Desktop") - certificate for this
+- [ ] [Azure Virtual Desktop](https://app.itpro.tv/course/azure-virtual-desktop-az140?tagcategory=course-library&tag=microsoft "Azure Virtual Desktop") 
 <!--
 - [ ] Plan an Azure Virtual Desktop Achitecture - 1:25
 - [ ] Implement Azure Virtual Desktop - 1:52
@@ -193,7 +193,7 @@ If you are hiring, and desire an exceptionally fast and gifted learner, who is p
 - [ ] Manage User Environments and Apps - 0:44 
 -->
 #### Microsoft Certified: Azure Security Engineer Associate
-- [ ] [Microsoft Azure Security Technologies (AZ-500)](https://app.itpro.tv/course/microsoft-azure-security-technologies-az500?tagcategory=certification&tag=microsoft-certified-azure "AZ-500") - certificate for this
+- [ ] [Microsoft Azure Security Technologies (AZ-500)](https://app.itpro.tv/course/microsoft-azure-security-technologies-az500?tagcategory=certification&tag=microsoft-certified-azure "AZ-500")
 <!--
 - [ ] Manage Azure Active Directory Identities - 2:42
 - [ ] Configure Secure Access by Using Azure AD - 1:59
@@ -211,7 +211,7 @@ If you are hiring, and desire an exceptionally fast and gifted learner, who is p
 -->
 
 #### AWS
-- [ ] [AWS Certified Cloud Practitioner](https://app.itpro.tv/course/aws-certified-cloud-practitioner?tagcategory=certification&tag=aws-certified-associate) - certificate for this
+- [ ] [AWS Certified Cloud Practitioner](https://app.itpro.tv/course/aws-certified-cloud-practitioner?tagcategory=certification&tag=aws-certified-associate) 
 <!--
 - [ ] 
 - [ ] 
@@ -224,7 +224,7 @@ If you are hiring, and desire an exceptionally fast and gifted learner, who is p
 - [ ] 
 - [ ] 
 -->
-- [ ] [AWS Certified Solutions Architect - Associate](https://app.itpro.tv/course/aws-certified-solutions-architect-associate-saaco2?tagcategory=certification&tag=aws-certified-associate) - certificate for this
+- [ ] [AWS Certified Solutions Architect - Associate](https://app.itpro.tv/course/aws-certified-solutions-architect-associate-saaco2?tagcategory=certification&tag=aws-certified-associate) 
 <!--
 - [ ] 
 - [ ] 
@@ -237,7 +237,7 @@ If you are hiring, and desire an exceptionally fast and gifted learner, who is p
 - [ ] 
 - [ ] 
 -->
-- [ ] [AWS Certified SysOps Administrator - Associate](https://app.itpro.tv/course/aws-certified-sysops-administrator-associate?tagcategory=certification&tag=aws-certified-associate) - certificate for this
+- [ ] [AWS Certified SysOps Administrator - Associate](https://app.itpro.tv/course/aws-certified-sysops-administrator-associate?tagcategory=certification&tag=aws-certified-associate) 
 <!--
 - [ ] 
 - [ ] 
@@ -251,7 +251,7 @@ If you are hiring, and desire an exceptionally fast and gifted learner, who is p
 - [ ] 
 -->
 ### Cisco CCNA and CCNP
-- [ ] [CISCO CCNA (200-301)](https://app.itpro.tv/course/comptia-network-n10008?tagcategory=course-library&tag=comptia "CISCO CCNA") - certificate for this
+- [ ] [CISCO CCNA (200-301)](https://app.itpro.tv/course/comptia-network-n10008?tagcategory=course-library&tag=comptia "CISCO CCNA")
 <!--
 - [ ] 
 - [ ] 
@@ -264,7 +264,7 @@ If you are hiring, and desire an exceptionally fast and gifted learner, who is p
 - [ ] 
 - [ ] 
 -->
-- [ ] [Cisco CyberOps Associate](https://app.itpro.tv/course/cisco-cyberops-associate-200201 "CyberOps") - certificate for this
+- [ ] [Cisco CyberOps Associate](https://app.itpro.tv/course/cisco-cyberops-associate-200201 "CyberOps") 
 <!--
 - [ ] 
 - [ ] 
@@ -327,6 +327,29 @@ If you are hiring, and desire an exceptionally fast and gifted learner, who is p
 ---
 
 -->
+---
+## 7 January 2022 - Friday
+
+### Note:
+    Today I spent half the day working on separation items for my leaving the military.
+    
+### Job Hunt:
+- [ ] Resume is in desparate need of attention!
+
+### Course:
+[Microsoft 365 Fundamentals](https://app.itpro.tv/course/microsoft-365-fundamentals-ms900?tagcategory=course-library&tag=microsoft "Microsoft 365 Fundamentals")
+- [ ] Core Microsoft 365 Services and Concepts - 3:51
+- [ ] Security, Compliance, Privacy and Trust in M365 - 3:07
+- [ ] Describe M365 Pricing and Support - 1:41
+
+### Course:
+[Microsoft 365 Fundamentals: Demonstrate knowledge of Microsoft 365 productivity and teamwork capabilities](https://docs.microsoft.com/en-us/learn/paths/m365-productivity-teamwork-solutions/ "")
+- [x] Microsoft 365 Productivity and Teamwork Solutions - 0:25
+- [x] Engage Employees with Microsoft Teams, Viva, and Yammer - 0:40
+- [ ] Get More Done with Office Across All Devices - 0:19
+- [ ] File Storage and Sharing with OneDrive and SharePoint - 0:24
+
+
 ---
 ## 6 January 2022 - Thursday
 
