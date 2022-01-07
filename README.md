@@ -15,7 +15,7 @@ If you are hiring, and desire an exceptionally fast and gifted learner, who is p
 
 - [ ] [Microsoft 365 Fundamentals](https://app.itpro.tv/course/microsoft-365-fundamentals-ms900?tagcategory=course-library&tag=microsoft "Microsoft 365 Fundamentals")
 
-- [ ] [Microsoft 365 Fundamentals: Demonstrate knowledge of Microsoft 365 productivity and teamwork capabilities](https://docs.microsoft.com/en-us/learn/paths/m365-productivity-teamwork-solutions/ "")
+- [x] [Microsoft 365 Fundamentals: Demonstrate knowledge of Microsoft 365 productivity and teamwork capabilities](https://docs.microsoft.com/en-us/learn/paths/m365-productivity-teamwork-solutions/ "")
 <!--
 - [ ] What is Microsoft 365 - 0:17
 - [ ] Microsoft 365 Productivity and Teamwork Solutions - 0:25
@@ -346,8 +346,8 @@ If you are hiring, and desire an exceptionally fast and gifted learner, who is p
 [Microsoft 365 Fundamentals: Demonstrate knowledge of Microsoft 365 productivity and teamwork capabilities](https://docs.microsoft.com/en-us/learn/paths/m365-productivity-teamwork-solutions/ "")
 - [x] Microsoft 365 Productivity and Teamwork Solutions - 0:25
 - [x] Engage Employees with Microsoft Teams, Viva, and Yammer - 0:40
-- [ ] Get More Done with Office Across All Devices - 0:19
-- [ ] File Storage and Sharing with OneDrive and SharePoint - 0:24
+- [x] Get More Done with Office Across All Devices - 0:19
+- [x] File Storage and Sharing with OneDrive and SharePoint - 0:24
 
 
 ---
