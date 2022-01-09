@@ -327,6 +327,43 @@ If you are hiring, and desire an exceptionally fast and gifted learner, who is p
 ---
 
 -->
+
+---
+## 9 January 2022 - Sunday
+
+### Job Hunt:
+- [ ] Resume is in desparate need of attention!
+
+### Course:
+[Helpdesk Lab from Kevtech IT Support](https://www.youtube.com/playlist?list=PLdh13bXVc6-k_u2RPqYAp8R8HtYT_ONht)
+- [x] Part 1 Installing Server 2016
+- [x] Part 2 Rename Server 2016 and installing Active Directory
+- [ ] Part 3 Active Directory Account Creation; CMD Commands
+- [ ] Part 4 Join Windows 10 PC to Domain; RSAT Tool, Server Manager
+- [ ] Part 5 Group Policy; RSOP Report
+- [ ] Part 6 Common AD Issues; PC Offline
+- [ ] Part 7 Security Groups; Map Drives; Personal Drives
+- [ ] Part 8 Windows 10 Remote; Remote Registry; Remote Desktop; C$
+- [ ] Part 9 RSOP; Group Policy; Task Manager; Disable logoff
+- [ ] Part 10 Installing PDQ; Deploying PDQ; Software Packages
+- [ ] Part 11 PDQ Inventory; Hardware Inventory; Applications
+- [ ] Part 12 Printer Setup on Server 2016; NTFS; Printer Cloud
+- [ ] Part 13 Ticketting Platforms; RDP Tools
+- [ ] Part 14 Delegate Control; Account Locked Out
+
+### Course:
+[Microsoft 365 Fundamentals](https://app.itpro.tv/course/microsoft-365-fundamentals-ms900?tagcategory=course-library&tag=microsoft "Microsoft 365 Fundamentals")
+- [ ] Core Microsoft 365 Services and Concepts - 3:51
+- [ ] Security, Compliance, Privacy and Trust in M365 - 3:07
+- [ ] Describe M365 Pricing and Support - 1:41
+
+
+---
+## 8 January 2022 - Saturday
+
+### Note:
+    Today I spent my time playing a nerd game with my neighbor and his friend (Magic: The Gathering, Commander style), and then I was able to pick my kids up from the airport. I did some research online for jobs and more of my separation stuff from the Navy.
+    
 ---
 ## 7 January 2022 - Friday
 
