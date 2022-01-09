@@ -336,10 +336,17 @@ If you are hiring, and desire an exceptionally fast and gifted learner, who is p
 
 ### Course:
 [Helpdesk Lab from Kevtech IT Support](https://www.youtube.com/playlist?list=PLdh13bXVc6-k_u2RPqYAp8R8HtYT_ONht)
-- [x] Part 1 Installing Server 2016
-- [x] Part 2 Rename Server 2016 and installing Active Directory
-- [ ] Part 3 Active Directory Account Creation; CMD Commands
-- [ ] Part 4 Join Windows 10 PC to Domain; RSAT Tool, Server Manager
+- [x] Part 1 Installing Server 2016    
+- [x] Part 2 Rename Server 2016 and installing Active Directory    
+- [x] Part 3 Active Directory Account Creation; CMD Commands    
+      Went into Active Directory Administrative Center and enabled the Recycle Bin. This way if the wrong thing gets deleted, it can be retrieved.    
+      To create a HelpDesk account with Admin privledges I copied the existing Administrator account, and called it HelpDesk    
+      I created an Organizational Unit named "\_IT-Department" and moved the HelpDesk user account into it.    
+      Using an underscore helps organize all of the Organizational Units at the top in one place.    
+- [x] Part 4 Join Windows 10 PC to Domain; RSAT Tool, Server Manager   
+      In a fresh Windows 10 install, went to Computer Management, under local users, enabled Administrator account and set a password.
+      Logged out of the user account and logged in to the Admin account.
+      Installed RSAT Tools to the Windows 10 machine.
 - [ ] Part 5 Group Policy; RSOP Report
 - [ ] Part 6 Common AD Issues; PC Offline
 - [ ] Part 7 Security Groups; Map Drives; Personal Drives
