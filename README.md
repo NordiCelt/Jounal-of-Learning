@@ -16,6 +16,7 @@ If you are hiring, and desire an exceptionally fast and gifted learner, who is p
 - [ ] [Microsoft 365 Fundamentals](https://app.itpro.tv/course/microsoft-365-fundamentals-ms900?tagcategory=course-library&tag=microsoft "Microsoft 365 Fundamentals")
 
 - [x] [Microsoft 365 Fundamentals: Demonstrate knowledge of Microsoft 365 productivity and teamwork capabilities](https://docs.microsoft.com/en-us/learn/paths/m365-productivity-teamwork-solutions/ "")
+🥇 [My Achievements on Microsoft Learn](https://docs.microsoft.com/en-us/users/trib-9910/achievements)
 <!--
 - [ ] What is Microsoft 365 - 0:17
 - [ ] Microsoft 365 Productivity and Teamwork Solutions - 0:25
@@ -327,6 +328,34 @@ If you are hiring, and desire an exceptionally fast and gifted learner, who is p
 ---
 
 -->
+
+---
+## 10 January 2022 - Monday
+
+### Job Hunt:
+- [x] Resume is in desparate need of attention!
+- [x] Apply - 22 applications submitted on Indeed.com
+
+### Course:
+[Helpdesk Lab from Kevtech IT Support](https://www.youtube.com/playlist?list=PLdh13bXVc6-k_u2RPqYAp8R8HtYT_ONht)
+- [ ] Part 5 Group Policy; RSOP Report
+- [ ] Part 6 Common AD Issues; PC Offline
+- [ ] Part 7 Security Groups; Map Drives; Personal Drives
+- [ ] Part 8 Windows 10 Remote; Remote Registry; Remote Desktop; C$
+- [ ] Part 9 RSOP; Group Policy; Task Manager; Disable logoff
+- [ ] Part 10 Installing PDQ; Deploying PDQ; Software Packages
+- [ ] Part 11 PDQ Inventory; Hardware Inventory; Applications
+- [ ] Part 12 Printer Setup on Server 2016; NTFS; Printer Cloud
+- [ ] Part 13 Ticketting Platforms; RDP Tools
+- [ ] Part 14 Delegate Control; Account Locked Out
+
+### Course:
+[Microsoft 365 Fundamentals](https://app.itpro.tv/course/microsoft-365-fundamentals-ms900?tagcategory=course-library&tag=microsoft "Microsoft 365 Fundamentals")
+- [ ] Core Microsoft 365 Services and Concepts - 3:51
+- [ ] Security, Compliance, Privacy and Trust in M365 - 3:07
+- [ ] Describe M365 Pricing and Support - 1:41
+
+
 
 ---
 ## 9 January 2022 - Sunday
