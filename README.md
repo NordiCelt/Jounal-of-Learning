@@ -334,10 +334,16 @@ If you are hiring, and desire an exceptionally fast and gifted learner, who is p
 
 ### Job Hunt:
 - [x] Resume is in desparate need of attention!
-- [x] Apply - 22 applications submitted on Indeed.com
+- [x] Apply - 24 applications submitted on Indeed.com
 
 ### Course:
 [Helpdesk Lab from Kevtech IT Support](https://www.youtube.com/playlist?list=PLdh13bXVc6-k_u2RPqYAp8R8HtYT_ONht)
+- [x] Part 4 Join Windows 10 PC to Domain; RSAT Tool, Server Manager   
+      In a fresh Windows 10 install, went to Computer Management, under local users, enabled Administrator account and set a password.
+      Logged out of the user account and logged in to the Admin account.
+      Installed RSAT Tools to the Windows 10 machine.
+      Installed Team Viewer
+      Joined domain.
 - [ ] Part 5 Group Policy; RSOP Report
 - [ ] Part 6 Common AD Issues; PC Offline
 - [ ] Part 7 Security Groups; Map Drives; Personal Drives
@@ -355,8 +361,6 @@ If you are hiring, and desire an exceptionally fast and gifted learner, who is p
 - [ ] Security, Compliance, Privacy and Trust in M365 - 3:07
 - [ ] Describe M365 Pricing and Support - 1:41
 
-
-
 ---
 ## 9 January 2022 - Sunday
 
@@ -372,10 +376,7 @@ If you are hiring, and desire an exceptionally fast and gifted learner, who is p
       To create a HelpDesk account with Admin privledges I copied the existing Administrator account, and called it HelpDesk    
       I created an Organizational Unit named "\_IT-Department" and moved the HelpDesk user account into it.    
       Using an underscore helps organize all of the Organizational Units at the top in one place.    
-- [x] Part 4 Join Windows 10 PC to Domain; RSAT Tool, Server Manager   
-      In a fresh Windows 10 install, went to Computer Management, under local users, enabled Administrator account and set a password.
-      Logged out of the user account and logged in to the Admin account.
-      Installed RSAT Tools to the Windows 10 machine.
+- [ ] Part 4 Join Windows 10 PC to Domain; RSAT Tool, Server Manager   
 - [ ] Part 5 Group Policy; RSOP Report
 - [ ] Part 6 Common AD Issues; PC Offline
 - [ ] Part 7 Security Groups; Map Drives; Personal Drives
@@ -592,116 +593,3 @@ If you are hiring, and desire an exceptionally fast and gifted learner, who is p
 
 
 ---
-
-
-January 2022
-|Sun|Mon|Tue|Wed|Thu|Fri|Sat|
-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-| | | | | | |x|
-|x|x|x|x|6|7|8|
-|9|10|11|12|13|14|15|
-|16|17|18|19|20|21|22|
-|23|24|25|26|27|28|29|
-|30|31| | | | | |
-
-February 2022
-|Sun|Mon|Tue|Wed|Thu|Fri|Sat|
-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-| | |1|2|3|4|5|
-|6|7|8|9|10|11|12|
-|13|14|15|16|17|18|19|
-|20|21|22|23|24|25|26|
-|27|28| | | | | |
-
-March 2022
-|Sun|Mon|Tue|Wed|Thu|Fri|Sat|
-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-| | |1|2|3|4|5|
-|6|7|8|9|10|11|12|
-|13|14|15|16|17|18|19|
-|20|21|22|23|24|25|26|
-|27|28|29|30|31| | |
-
-April 2022
-|Sun|Mon|Tue|Wed|Thu|Fri|Sat|
-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-| | | | | |1|2|
-|3|4|5|6|7|8|9|
-|10|11|12|13|14|15|16|
-|17|18|19|20|21|22|23|
-|24|25|26|27|28|29|30|
-
-May 2022
-|Sun|Mon|Tue|Wed|Thu|Fri|Sat|
-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|1|2|3|4|5|6|7|
-|8|9|10|11|12|13|14|
-|15|16|17|18|19|20|21|
-|22|23|24|25|26|27|28|
-|29|30|31| | | | |
-
-June 2022
-|Sun|Mon|Tue|Wed|Thu|Fri|Sat|
-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-| | | |1|2|3|4|
-|5|6|7|8|9|10|11|
-|12|13|14|15|16|17|18|
-|19|20|21|22|23|24|25|
-|26|27|28|29|30|31| |
-
-July 2022
-|Sun|Mon|Tue|Wed|Thu|Fri|Sat|
-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-| | | | | |1|2|
-|3|4|5|6|7|8|9|
-|10|11|12|13|14|15|16|
-|17|18|19|20|21|22|23|
-|24|25|26|27|28|29|30|
-
-August 2022
-|Sun|Mon|Tue|Wed|Thu|Fri|Sat|
-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-| |1|2|3|4|5|6|
-|7|8|9|10|11|12|13|
-|14|15|16|17|18|19|20|
-|21|22|23|24|25|26|27|
-|28|29|30|31| | | |
-
-September 2022
-|Sun|Mon|Tue|Wed|Thu|Fri|Sat|
-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-| | | |1|2|3|4|
-|5|6|7|8|9|10|11|
-|12|13|14|15|16|17|18|
-|19|20|21|22|23|24|25|
-|26|27|28|29|30| | |
-
-October 2022
-|Sun|Mon|Tue|Wed|Thu|Fri|Sat|
-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-| | | | | | |1|
-|2|3|4|5|6|7|8|
-|9|10|11|12|13|14|15|
-|16|17|18|19|20|21|22|
-|23|24|25|26|27|28|29|
-|30|31| | | | | |
-
-November 2022
-|Sun|Mon|Tue|Wed|Thu|Fri|Sat|
-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-| | |1|2|3|4|5|
-|6|7|8|9|10|11|12|
-|13|14|15|16|17|18|19|
-|20|21|22|23|24|25|26|
-|27|28|29|30| | | |
-
-December 2022
-|Sun|Mon|Tue|Wed|Thu|Fri|Sat|
-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-| | | | |1|2|3|
-|4|5|6|7|8|9|10|
-|11|12|13|14|15|16|17|
-|18|19|20|21|22|23|24|
-|25|26|27|28|29|30|31|
-
-
