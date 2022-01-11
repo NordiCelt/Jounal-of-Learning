@@ -18,43 +18,8 @@ If you are hiring, and desire an exceptionally fast and gifted learner, who is p
 
 - [x] [Microsoft 365 Fundamentals: Demonstrate knowledge of Microsoft 365 productivity and teamwork capabilities](https://docs.microsoft.com/en-us/learn/paths/m365-productivity-teamwork-solutions/ "")
 🥇 [My Achievements on Microsoft Learn](https://docs.microsoft.com/en-us/users/trib-9910/achievements)
-<!--
-- [ ] What is Microsoft 365 - 0:17
-- [ ] Microsoft 365 Productivity and Teamwork Solutions - 0:25
-- [ ] Engage Employees with Microsoft Teams, Viva, and Yammer - 0:40
-- [ ] Get More Done with Office Across All Devices - 0:19
-- [ ] File Storage and Sharing with OneDrive and SharePoint - 0:24
--->
 
-- [ ] [Microsoft 365 Fundamentals: Demonstrate knowledge of Microsoft 365 business management capabilities](https://docs.microsoft.com/en-us/learn/paths/m365-business-management-solutions/ "")
-<!--
-- [ ] What is Microsoft 365 - 0:17
-- [ ] Manage Your Business with Microsoft 365 - 0:42
-- [ ] Simplify Device Management with Microsoft Endpoint Manager - 0:27
-- [ ] Get More Done and Stay Secure with Windows 10 - 0:30
-- [ ] Harness Business Intelligence with Microsoft 365 Analytics and Reporting - 0:19
--->
-
-- [ ] [Microsoft 365 Fundamentals: Demonstrate fundamental knowledge of Microsoft 365 security and compliance capabilities](https://docs.microsoft.com/en-us/learn/paths/m365-security-compliance-capabilities/ "")
-<!--
-- [ ] What is Microsoft 365 - 0:17
-- [ ] Describe Security and Compliance Concepts and Methodologies - 0:26
-- [ ] Describe the Identity and Access Management Capabilities of Microsoft - 0:29
-- [ ] Describe the Threat Protection Capabilities of Microsoft 365 - 0:24
-- [ ] Describe the Cloud Security Capabilities of Microsoft 365 - 0:11
-- [ ] Describe the Information Protection and Governance Capabilities of Microsoft 365 - 0:23
-- [ ] Describe the Compliance Management Capabilities in Microsoft - 0:30
-- [ ] Reduce Risk and Simplify the Discovery and Audit Process - 0:37
--->
-
-- [ ] [Microsoft 365 Fundamentals: Demonstrate knowledge of Microsoft 365 licensing, service and support](https://docs.microsoft.com/en-us/learn/paths/m365-licensing-service-support/ "")
-<!--
-- [ ] What is Microsoft 365 - 0:17
-- [ ] Identify Licensing Options Available in Microsoft 365 - 0:16
-- [ ] Describe Support Offerings for Microsoft 365 Services - 0:17
-- [ ] Describe the Service Life Cycle in Microsoft 365 - 0:08
-- [ ] Select a Cloud Deployment Model - 0:09
--->
+- [ ] [Helpdesk Lab from Kevtech IT Support](https://www.youtube.com/playlist?list=PLdh13bXVc6-k_u2RPqYAp8R8HtYT_ONht)
 
 ### Enterprise Administrator Expert Track
 - [ ] [Microsoft Windows 10 MD-100](https://app.itpro.tv/course/microsoft-windows-10-md-100?tagcategory=course-library&tag=microsoft "MD-100")
@@ -334,19 +299,16 @@ If you are hiring, and desire an exceptionally fast and gifted learner, who is p
 
 ## 11 January 2022 - Tuesday
 
+### Notes:
+    Today I finished the 365 fundamentals course I was taking. Now I intend to finish the HelpDesk Lab from Kevtech IT Support, and then begin the Enterprise Administrator Expert track.
+
 ### Job Hunt:
-- [ ] TAP Class
-- [ ] 
+- [x] TAP Class (completed 2)
+- [x] Separation Physical - Documents sent to Grand Forks AFB
 - [ ] Apply - 
 
 ### Course:
 [Helpdesk Lab from Kevtech IT Support](https://www.youtube.com/playlist?list=PLdh13bXVc6-k_u2RPqYAp8R8HtYT_ONht)
-- [x] Part 4 Join Windows 10 PC to Domain; RSAT Tool, Server Manager   
-      In a fresh Windows 10 install, went to Computer Management, under local users, enabled Administrator account and set a password.
-      Logged out of the user account and logged in to the Admin account.
-      Installed RSAT Tools to the Windows 10 machine.
-      Installed Team Viewer
-      Joined domain.
 - [ ] Part 5 Group Policy; RSOP Report
 - [ ] Part 6 Common AD Issues; PC Offline
 - [ ] Part 7 Security Groups; Map Drives; Personal Drives
@@ -357,6 +319,19 @@ If you are hiring, and desire an exceptionally fast and gifted learner, who is p
 - [ ] Part 12 Printer Setup on Server 2016; NTFS; Printer Cloud
 - [ ] Part 13 Ticketting Platforms; RDP Tools
 - [ ] Part 14 Delegate Control; Account Locked Out
+
+[Microsoft Windows 10 MD-100](https://app.itpro.tv/course/microsoft-windows-10-md-100?tagcategory=course-library&tag=microsoft "MD-100")
+- [ ] Install Windows 10 - 1:35
+- [ ] Perform Post-Installation Configuration - 2:34
+- [ ] Manage Users, Groups, and Devices - 1:44
+- [ ] Configure Devices by Using Local Policies - 0:48
+- [ ] Manage Windows Security - 2:14
+- [ ] Configure Networking - 1:02
+- [ ] Configure Data Access and Protection - 1:54
+- [ ] Configure System and Data Recovery - 1:41
+- [ ] Manage Updates - 0:42
+- [ ] Monitor and Manage Windows - 1:55
+- [ ] Configure Remote Connectivity - 1:29
 
 ### Course:
 [Microsoft 365 Fundamentals](https://app.itpro.tv/course/microsoft-365-fundamentals-ms900?tagcategory=course-library&tag=microsoft "Microsoft 365 Fundamentals")
