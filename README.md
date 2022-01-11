@@ -330,6 +330,41 @@ If you are hiring, and desire an exceptionally fast and gifted learner, who is p
 -->
 
 ---
+
+## 11 January 2022 - Tuesday
+
+### Job Hunt:
+- [ ] TAP Class
+- [ ] 
+- [ ] Apply - 
+
+### Course:
+[Helpdesk Lab from Kevtech IT Support](https://www.youtube.com/playlist?list=PLdh13bXVc6-k_u2RPqYAp8R8HtYT_ONht)
+- [x] Part 4 Join Windows 10 PC to Domain; RSAT Tool, Server Manager   
+      In a fresh Windows 10 install, went to Computer Management, under local users, enabled Administrator account and set a password.
+      Logged out of the user account and logged in to the Admin account.
+      Installed RSAT Tools to the Windows 10 machine.
+      Installed Team Viewer
+      Joined domain.
+- [ ] Part 5 Group Policy; RSOP Report
+- [ ] Part 6 Common AD Issues; PC Offline
+- [ ] Part 7 Security Groups; Map Drives; Personal Drives
+- [ ] Part 8 Windows 10 Remote; Remote Registry; Remote Desktop; C$
+- [ ] Part 9 RSOP; Group Policy; Task Manager; Disable logoff
+- [ ] Part 10 Installing PDQ; Deploying PDQ; Software Packages
+- [ ] Part 11 PDQ Inventory; Hardware Inventory; Applications
+- [ ] Part 12 Printer Setup on Server 2016; NTFS; Printer Cloud
+- [ ] Part 13 Ticketting Platforms; RDP Tools
+- [ ] Part 14 Delegate Control; Account Locked Out
+
+### Course:
+[Microsoft 365 Fundamentals](https://app.itpro.tv/course/microsoft-365-fundamentals-ms900?tagcategory=course-library&tag=microsoft "Microsoft 365 Fundamentals")
+- [ ] Core Microsoft 365 Services and Concepts - 3:51
+- [ ] Security, Compliance, Privacy and Trust in M365 - 3:07
+- [ ] Describe M365 Pricing and Support - 1:41
+
+
+---
 ## 10 January 2022 - Monday
 
 ### Job Hunt:
