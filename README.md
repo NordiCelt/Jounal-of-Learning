@@ -13,7 +13,8 @@ If you are hiring, and desire an exceptionally fast and gifted learner, who is p
 - [x] [PowerShell Basics](https://app.itpro.tv/course/powershell-2017?tagcategory=course-library&tag=microsoft "PowerShell Basics")   
 🥇 [My Certificate from ITPro.TV](https://github.com/NordiCelt/Course-Certificates/blob/main/PowerShell%20Basics.pdf)
 
-- [ ] [Microsoft 365 Fundamentals](https://app.itpro.tv/course/microsoft-365-fundamentals-ms900?tagcategory=course-library&tag=microsoft "Microsoft 365 Fundamentals")
+- [x] [Microsoft 365 Fundamentals](https://app.itpro.tv/course/microsoft-365-fundamentals-ms900?tagcategory=course-library&tag=microsoft "Microsoft 365 Fundamentals")
+🥇 [Certificate from ITPro.TV](https://github.com/NordiCelt/Course-Certificates/blob/main/Microsoft%20365%20Fundamentals%20(MS-900).pdf)
 
 - [x] [Microsoft 365 Fundamentals: Demonstrate knowledge of Microsoft 365 productivity and teamwork capabilities](https://docs.microsoft.com/en-us/learn/paths/m365-productivity-teamwork-solutions/ "")
 🥇 [My Achievements on Microsoft Learn](https://docs.microsoft.com/en-us/users/trib-9910/achievements)
@@ -359,9 +360,9 @@ If you are hiring, and desire an exceptionally fast and gifted learner, who is p
 
 ### Course:
 [Microsoft 365 Fundamentals](https://app.itpro.tv/course/microsoft-365-fundamentals-ms900?tagcategory=course-library&tag=microsoft "Microsoft 365 Fundamentals")
-- [ ] Core Microsoft 365 Services and Concepts - 3:51
-- [ ] Security, Compliance, Privacy and Trust in M365 - 3:07
-- [ ] Describe M365 Pricing and Support - 1:41
+- [x] Core Microsoft 365 Services and Concepts - 3:51
+- [x] Security, Compliance, Privacy and Trust in M365 - 3:07
+- [x] Describe M365 Pricing and Support - 1:41
 
 
 ---
