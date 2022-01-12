@@ -13,13 +13,16 @@ If you are hiring, and desire an exceptionally fast and gifted learner, who is p
 - [x] [PowerShell Basics](https://app.itpro.tv/course/powershell-2017?tagcategory=course-library&tag=microsoft "PowerShell Basics")   
 🥇 [My Certificate from ITPro.TV](https://github.com/NordiCelt/Course-Certificates/blob/main/PowerShell%20Basics.pdf)
 
-- [x] [Microsoft 365 Fundamentals](https://app.itpro.tv/course/microsoft-365-fundamentals-ms900?tagcategory=course-library&tag=microsoft "Microsoft 365 Fundamentals")
+- [x] [Microsoft 365 Fundamentals](https://app.itpro.tv/course/microsoft-365-fundamentals-ms900?tagcategory=course-library&tag=microsoft "Microsoft 365 Fundamentals")   
 🥇 [Certificate from ITPro.TV](https://github.com/NordiCelt/Course-Certificates/blob/main/Microsoft%20365%20Fundamentals%20(MS-900).pdf)
 
-- [x] [Microsoft 365 Fundamentals: Demonstrate knowledge of Microsoft 365 productivity and teamwork capabilities](https://docs.microsoft.com/en-us/learn/paths/m365-productivity-teamwork-solutions/ "")
+- [x] [Microsoft 365 Fundamentals: Demonstrate knowledge of Microsoft 365 productivity and teamwork capabilities](https://docs.microsoft.com/en-us/learn/paths/m365-productivity-teamwork-solutions/ "")   
 🥇 [My Achievements on Microsoft Learn](https://docs.microsoft.com/en-us/users/trib-9910/achievements)
 
-- [ ] [Helpdesk Lab from Kevtech IT Support](https://www.youtube.com/playlist?list=PLdh13bXVc6-k_u2RPqYAp8R8HtYT_ONht)
+- [ ] [Helpdesk Lab from Kevtech IT Support](https://www.youtube.com/playlist?list=PLdh13bXVc6-k_u2RPqYAp8R8HtYT_ONht)   
+<!--
+☑️ Lab Complete!   
+-->
 
 ### Enterprise Administrator Expert Track
 - [ ] [Microsoft Windows 10 MD-100](https://app.itpro.tv/course/microsoft-windows-10-md-100?tagcategory=course-library&tag=microsoft "MD-100")
@@ -297,15 +300,7 @@ If you are hiring, and desire an exceptionally fast and gifted learner, who is p
 
 ---
 
-## 11 January 2022 - Tuesday
-
-### Notes:
-    Today I finished the 365 fundamentals course I was taking. Now I intend to finish the HelpDesk Lab from Kevtech IT Support, and then begin the Enterprise Administrator Expert track.
-
-### Job Hunt:
-- [x] TAP Class (completed 2)
-- [x] Separation Physical - Documents sent to Grand Forks AFB
-- [ ] Apply - 
+## 12 January 2022 - Wednesday
 
 ### Course:
 [Helpdesk Lab from Kevtech IT Support](https://www.youtube.com/playlist?list=PLdh13bXVc6-k_u2RPqYAp8R8HtYT_ONht)
@@ -332,6 +327,17 @@ If you are hiring, and desire an exceptionally fast and gifted learner, who is p
 - [ ] Manage Updates - 0:42
 - [ ] Monitor and Manage Windows - 1:55
 - [ ] Configure Remote Connectivity - 1:29
+
+---
+
+## 11 January 2022 - Tuesday
+
+### Notes:
+    Today I finished the 365 fundamentals course I was taking.      
+
+### Job Hunt:
+- [x] TAP Class (completed 2)
+- [x] Separation Physical - Documents sent to Grand Forks AFB
 
 ### Course:
 [Microsoft 365 Fundamentals](https://app.itpro.tv/course/microsoft-365-fundamentals-ms900?tagcategory=course-library&tag=microsoft "Microsoft 365 Fundamentals")
