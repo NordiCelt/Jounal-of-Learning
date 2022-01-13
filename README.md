@@ -24,6 +24,11 @@ If you are hiring, and desire an exceptionally fast and gifted learner, who is p
 ☑️ Lab Complete!   
 -->
 
+- [ ] [MySQL Tutorial from Mosh](https://www.youtube.com/watch?v=7S_tz1z_5bA&t=61)
+<!--
+☑️ Tutorial Complete!   
+-->
+
 ### Enterprise Administrator Expert Track
 - [ ] [Microsoft Windows 10 MD-100](https://app.itpro.tv/course/microsoft-windows-10-md-100?tagcategory=course-library&tag=microsoft "MD-100")
 <!--
@@ -300,11 +305,12 @@ If you are hiring, and desire an exceptionally fast and gifted learner, who is p
 
 ---
 
-## 12 January 2022 - Wednesday
+## 13 January 2022 - Thursday
 
 ### Course:
 [Helpdesk Lab from Kevtech IT Support](https://www.youtube.com/playlist?list=PLdh13bXVc6-k_u2RPqYAp8R8HtYT_ONht)
-- [ ] Part 5 Group Policy; RSOP Report
+- [x] Part 5 Group Policy; RSOP Report
+      Group policy security settings should not be left at default. Interesting.
 - [ ] Part 6 Common AD Issues; PC Offline
 - [ ] Part 7 Security Groups; Map Drives; Personal Drives
 - [ ] Part 8 Windows 10 Remote; Remote Registry; Remote Desktop; C$
