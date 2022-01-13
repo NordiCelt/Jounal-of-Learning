@@ -19,9 +19,18 @@ If you are hiring, and desire an exceptionally fast and gifted learner, who is p
 - [x] [Microsoft 365 Fundamentals: Demonstrate knowledge of Microsoft 365 productivity and teamwork capabilities](https://docs.microsoft.com/en-us/learn/paths/m365-productivity-teamwork-solutions/ "")   
 🥇 [My Achievements on Microsoft Learn](https://docs.microsoft.com/en-us/users/trib-9910/achievements)
 
-- [ ] [Helpdesk Lab from Kevtech IT Support](https://www.youtube.com/playlist?list=PLdh13bXVc6-k_u2RPqYAp8R8HtYT_ONht)   
+- [x] [Helpdesk Lab from Kevtech IT Support](https://www.youtube.com/playlist?list=PLdh13bXVc6-k_u2RPqYAp8R8HtYT_ONht)   
+☑️ Lab Complete! 
 <!--
-☑️ Lab Complete!   
+- [x] Part 6 Common AD Issues; PC Offline
+- [ ] Part 7 Security Groups; Map Drives; Personal Drives
+- [ ] Part 8 Windows 10 Remote; Remote Registry; Remote Desktop; C$
+- [ ] Part 9 RSOP; Group Policy; Task Manager; Disable logoff
+- [ ] Part 10 Installing PDQ; Deploying PDQ; Software Packages
+- [ ] Part 11 PDQ Inventory; Hardware Inventory; Applications
+- [ ] Part 12 Printer Setup on Server 2016; NTFS; Printer Cloud
+- [ ] Part 13 Ticketting Platforms; RDP Tools
+- [ ] Part 14 Delegate Control; Account Locked Out
 -->
 
 - [ ] [MySQL Tutorial from Mosh](https://www.youtube.com/watch?v=7S_tz1z_5bA&t=61)
@@ -311,15 +320,6 @@ If you are hiring, and desire an exceptionally fast and gifted learner, who is p
 [Helpdesk Lab from Kevtech IT Support](https://www.youtube.com/playlist?list=PLdh13bXVc6-k_u2RPqYAp8R8HtYT_ONht)
 - [x] Part 5 Group Policy; RSOP Report
       Group policy security settings should not be left at default. Interesting.
-- [ ] Part 6 Common AD Issues; PC Offline
-- [ ] Part 7 Security Groups; Map Drives; Personal Drives
-- [ ] Part 8 Windows 10 Remote; Remote Registry; Remote Desktop; C$
-- [ ] Part 9 RSOP; Group Policy; Task Manager; Disable logoff
-- [ ] Part 10 Installing PDQ; Deploying PDQ; Software Packages
-- [ ] Part 11 PDQ Inventory; Hardware Inventory; Applications
-- [ ] Part 12 Printer Setup on Server 2016; NTFS; Printer Cloud
-- [ ] Part 13 Ticketting Platforms; RDP Tools
-- [ ] Part 14 Delegate Control; Account Locked Out
 
 [Microsoft Windows 10 MD-100](https://app.itpro.tv/course/microsoft-windows-10-md-100?tagcategory=course-library&tag=microsoft "MD-100")
 - [ ] Install Windows 10 - 1:35
@@ -367,16 +367,6 @@ If you are hiring, and desire an exceptionally fast and gifted learner, who is p
       Installed RSAT Tools to the Windows 10 machine.
       Installed Team Viewer
       Joined domain.
-- [ ] Part 5 Group Policy; RSOP Report
-- [ ] Part 6 Common AD Issues; PC Offline
-- [ ] Part 7 Security Groups; Map Drives; Personal Drives
-- [ ] Part 8 Windows 10 Remote; Remote Registry; Remote Desktop; C$
-- [ ] Part 9 RSOP; Group Policy; Task Manager; Disable logoff
-- [ ] Part 10 Installing PDQ; Deploying PDQ; Software Packages
-- [ ] Part 11 PDQ Inventory; Hardware Inventory; Applications
-- [ ] Part 12 Printer Setup on Server 2016; NTFS; Printer Cloud
-- [ ] Part 13 Ticketting Platforms; RDP Tools
-- [ ] Part 14 Delegate Control; Account Locked Out
 
 ### Course:
 [Microsoft 365 Fundamentals](https://app.itpro.tv/course/microsoft-365-fundamentals-ms900?tagcategory=course-library&tag=microsoft "Microsoft 365 Fundamentals")
@@ -387,9 +377,6 @@ If you are hiring, and desire an exceptionally fast and gifted learner, who is p
 ---
 ## 9 January 2022 - Sunday
 
-### Job Hunt:
-- [ ] Resume is in desparate need of attention!
-
 ### Course:
 [Helpdesk Lab from Kevtech IT Support](https://www.youtube.com/playlist?list=PLdh13bXVc6-k_u2RPqYAp8R8HtYT_ONht)
 - [x] Part 1 Installing Server 2016    
@@ -399,24 +386,6 @@ If you are hiring, and desire an exceptionally fast and gifted learner, who is p
       To create a HelpDesk account with Admin privledges I copied the existing Administrator account, and called it HelpDesk    
       I created an Organizational Unit named "\_IT-Department" and moved the HelpDesk user account into it.    
       Using an underscore helps organize all of the Organizational Units at the top in one place.    
-- [ ] Part 4 Join Windows 10 PC to Domain; RSAT Tool, Server Manager   
-- [ ] Part 5 Group Policy; RSOP Report
-- [ ] Part 6 Common AD Issues; PC Offline
-- [ ] Part 7 Security Groups; Map Drives; Personal Drives
-- [ ] Part 8 Windows 10 Remote; Remote Registry; Remote Desktop; C$
-- [ ] Part 9 RSOP; Group Policy; Task Manager; Disable logoff
-- [ ] Part 10 Installing PDQ; Deploying PDQ; Software Packages
-- [ ] Part 11 PDQ Inventory; Hardware Inventory; Applications
-- [ ] Part 12 Printer Setup on Server 2016; NTFS; Printer Cloud
-- [ ] Part 13 Ticketting Platforms; RDP Tools
-- [ ] Part 14 Delegate Control; Account Locked Out
-
-### Course:
-[Microsoft 365 Fundamentals](https://app.itpro.tv/course/microsoft-365-fundamentals-ms900?tagcategory=course-library&tag=microsoft "Microsoft 365 Fundamentals")
-- [ ] Core Microsoft 365 Services and Concepts - 3:51
-- [ ] Security, Compliance, Privacy and Trust in M365 - 3:07
-- [ ] Describe M365 Pricing and Support - 1:41
-
 
 ---
 ## 8 January 2022 - Saturday
@@ -430,22 +399,12 @@ If you are hiring, and desire an exceptionally fast and gifted learner, who is p
 ### Note:
     Today I spent half the day working on separation items for my leaving the military.
     
-### Job Hunt:
-- [ ] Resume is in desparate need of attention!
-
-### Course:
-[Microsoft 365 Fundamentals](https://app.itpro.tv/course/microsoft-365-fundamentals-ms900?tagcategory=course-library&tag=microsoft "Microsoft 365 Fundamentals")
-- [ ] Core Microsoft 365 Services and Concepts - 3:51
-- [ ] Security, Compliance, Privacy and Trust in M365 - 3:07
-- [ ] Describe M365 Pricing and Support - 1:41
-
 ### Course:
 [Microsoft 365 Fundamentals: Demonstrate knowledge of Microsoft 365 productivity and teamwork capabilities](https://docs.microsoft.com/en-us/learn/paths/m365-productivity-teamwork-solutions/ "")
 - [x] Microsoft 365 Productivity and Teamwork Solutions - 0:25
 - [x] Engage Employees with Microsoft Teams, Viva, and Yammer - 0:40
 - [x] Get More Done with Office Across All Devices - 0:19
 - [x] File Storage and Sharing with OneDrive and SharePoint - 0:24
-
 
 ---
 ## 6 January 2022 - Thursday
@@ -455,22 +414,12 @@ If you are hiring, and desire an exceptionally fast and gifted learner, who is p
     
     Tomorrow I need to work on:
     
-### Job Hunt:
-- [ ] Resume is in desparate need of attention!
-
-### Course:
-[Microsoft 365 Fundamentals](https://app.itpro.tv/course/microsoft-365-fundamentals-ms900?tagcategory=course-library&tag=microsoft "Microsoft 365 Fundamentals")
-- [ ] Core Microsoft 365 Services and Concepts - 3:51
-- [ ] Security, Compliance, Privacy and Trust in M365 - 3:07
-- [ ] Describe M365 Pricing and Support - 1:41
-
 ### Course:
 [Microsoft 365 Fundamentals: Demonstrate knowledge of Microsoft 365 productivity and teamwork capabilities](https://docs.microsoft.com/en-us/learn/paths/m365-productivity-teamwork-solutions/ "")
 - [ ] Microsoft 365 Productivity and Teamwork Solutions - 0:25
 - [ ] Engage Employees with Microsoft Teams, Viva, and Yammer - 0:40
 - [ ] Get More Done with Office Across All Devices - 0:19
 - [ ] File Storage and Sharing with OneDrive and SharePoint - 0:24
-
 
 ---
 ## 5 January 2022 - Wednesday
