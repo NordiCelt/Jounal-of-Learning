@@ -6,27 +6,19 @@ This is my Journal of Learning. I am keeping this to help me stay on track of my
 
 If you are hiring, and desire an exceptionally fast and gifted learner, who is passionate about Web Development,  Information Technology, and Software Development, please click here to see my always-evolving [GitHub Resume](https://github.com/NordiCelt)
 
-## Courses to Complete:  
-
-
-
-
-
-
-
 # Learning Journal   
 
 ## Courses:   
 
 [Responsive Web Design Certification](https://www.freecodecamp.org/learn/responsive-web-design)
 - [x] Basic HTML and HTML5 - Completed 20 January 2022
-- [ ] Basic CSS - 0/
-- [ ] Applied Visual Design - 0/
-- [ ] Applied Accessibility - 0/
-- [ ] Responsive Web Design Principles - 0/
-- [ ] CSS Flexbox - 0/
-- [ ] CSS Grid - 0/
-- [ ] Responsive Web Design Projects - 0/
+- [ ] Basic CSS - 0/44
+- [ ] Applied Visual Design - 0/52
+- [ ] Applied Accessibility - 0/22
+- [ ] Responsive Web Design Principles - 0/4
+- [ ] CSS Flexbox - 0/17
+- [ ] CSS Grid - 0/22
+- [ ] Responsive Web Design Projects - 0/5
 
 [JavaScript Algorithms and Data Structures Certification](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/)
 - [ ] Basic JavaScript - 38/113
