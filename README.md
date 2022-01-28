@@ -20,6 +20,29 @@ If you are hiring, and desire an exceptionally fast and gifted learner, who is p
 - [ ] CSS Grid - 0/22
 - [ ] Responsive Web Design Projects - 0/5
 
+[Eloquent JavaScript](https://eloquentjavascript.net/)
+- [ ] Values, Types, and Operators
+- [ ] Program Structure
+- [ ] Functions
+- [ ] Data Structures: Objects and Arrays
+- [ ] Higher-order Functions
+- [ ] The Secret Life of Objects
+- [ ] Project: A Robot
+- [ ] Bugs and Errors
+- [ ] Regular Expressions
+- [ ] Modules
+- [ ] Asynchronous Programming
+- [ ] Project: A Programming Language
+- [ ] JavaScript and the Browser
+- [ ] The Document Object Model
+- [ ] Handling Events
+- [ ] Project: A Platform Game
+- [ ] Drawing on Canvas
+- [ ] HTTP and Forms
+- [ ] Project: A Pixel Art Editor
+- [ ] Node.js
+- [ ] Project: Skill-Sharing Website
+
 [JavaScript Algorithms and Data Structures Certification](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/)
 - [ ] Basic JavaScript - 38/113
 - [ ] ES6 - 0/29
