@@ -13,7 +13,7 @@ If you are hiring, and desire an exceptionally fast and gifted learner, who is p
 [Responsive Web Design Certification](https://www.freecodecamp.org/learn/responsive-web-design)
 - [x] Basic HTML and HTML5 - Completed 20 January 2022
 - [x] Basic CSS - Completed 21 January 2022
-- [ ] Applied Visual Design - 0/52
+- [ ] Applied Visual Design - 18/52
 - [ ] Applied Accessibility - 0/22
 - [ ] Responsive Web Design Principles - 0/4
 - [ ] CSS Flexbox - 0/17
@@ -44,7 +44,7 @@ If you are hiring, and desire an exceptionally fast and gifted learner, who is p
 - [ ] Project: Skill-Sharing Website
 
 [JavaScript Algorithms and Data Structures Certification](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/)
-- [ ] Basic JavaScript - 38/113
+- [ ] Basic JavaScript - 51/113
 - [ ] ES6 - 0/29
 - [ ] Regular Expressions - 0/33
 - [ ] Debugging - 0/12
