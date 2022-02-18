@@ -1,5 +1,7 @@
 # Trib's Journal of Learning
+<!--
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FNordiCelt%2FJounal-of-Learning%2Fblob%2Fmain%2FREADME.md&count_bg=%23892222&title_bg=%23555555&icon=github.svg&icon_color=%2317BBB6&title=page+views&edge_flat=false)](https://hits.seeyoufarm.com)
+-->
 ## Welcome!
 
 This is my Journal of Learning. I am keeping this to help me stay on track of my accelerated learning, while hitting certain goals on the way. It is a good frame of reference for what I've done to prepare for my career outside the military. In short, these are the things I can and have done.
@@ -93,6 +95,7 @@ If you are hiring, and desire an exceptionally fast and gifted learner, who is p
 - [ ] Project Euler - 0/480
 
 
+---
 
 
 
@@ -110,23 +113,6 @@ If you are hiring, and desire an exceptionally fast and gifted learner, who is p
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!--
 ### Fundamentals and Refreshers
 
 - [x] [PowerShell Basics](https://app.itpro.tv/course/powershell-2017?tagcategory=course-library&tag=microsoft "PowerShell Basics")   
